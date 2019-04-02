@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\world\world\obj\Debug\world.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\world\world\bin\Debug\world.exe.config
+C:\Users\Zane\source\repos\world\world\bin\Debug\world.exe
+C:\Users\Zane\source\repos\world\world\bin\Debug\world.pdb
+C:\Users\Zane\source\repos\world\world\obj\Debug\world.exe
+C:\Users\Zane\source\repos\world\world\obj\Debug\world.pdb
+C:\Users\Zane\source\repos\world\world\obj\Debug\world.csprojAssemblyReference.cache
